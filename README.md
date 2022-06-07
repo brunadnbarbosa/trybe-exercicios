@@ -30,7 +30,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 3-4: _HTML Semântico_
 - [ ] 3-5: _[Projeto - Lessons Leanerd]()_
 
-##### Bloco 4: Introdução à JavaScript e Lógica de Programação
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação ✔️
 
 - [ ] 4-1: _Introdução - JavaScript_
 - [ ] 4-1: _JavaScript - Primeiros passos_
@@ -39,7 +39,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 4-4: _JavaScript - Objetos e Funções_
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
+##### Bloco 5: JavaScript: DOM, Eventos e Web Storage ✔️
 
 - [ ] 5-1: _JavaScript - DOM e seletores_
 - [ ] 5-2: _JavaScript - Trabalhando com elementos_
@@ -52,7 +52,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 5-7: _(Bônus)[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _(Bônus)[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo ✔️
 
 - [ ] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
